@@ -7,4 +7,6 @@
 
 2. Run `webpack`
 
-3. Run `node server.js` to start the development server. It should automatically open the client in your browser when ready.
+3. Run `node server.js` to start the development server.
+
+4. Browse to localhost:3000
